@@ -9,7 +9,7 @@
 
 'use client'
 
-import PawsLogo from '/@images/paws.webp'
+import PawsLogo from '@/images/paws.webp'
 import { trophy } from '@/images';
 import Image from 'next/image'
 
