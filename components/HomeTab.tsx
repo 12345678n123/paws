@@ -33,7 +33,7 @@ const HomeTab = () => {
                 <PawsLogo className="w-28 h-28 mb-4" />
                 <div className="flex items-center gap-1 text-center">
                     <div className="text-6xl font-bold mb-1">4,646</div>
-                    <div className="text-white text-2xl">PAWS</div>
+                    <div className="text-white text-2xl">WHALES</div>
                 </div>
                 <div className="flex items-center gap-1 text-[#868686] rounded-full px-4 py-1.5 mt-2 cursor-pointer">
                     <span>NEWCOMER</span>

@@ -14,7 +14,7 @@ import { useState } from 'react'
 
 // Import your task icons
 import TaskWallet from '@/icons/TaskWallet'
-import TaskPaws from '@/icons/TaskPaws'
+import TaskPaws from '@/images/paws.webp'
 import TaskTwitter from '@/icons/TaskTwitter'
 import { taskBlum, taskBoost, taskWhitePaws } from '@/images'
 import TaskTelegram from '@/icons/TaskTelegram'
@@ -34,38 +34,38 @@ const TasksTab = () => {
     const tasks: Task[] = [
         {
             icon: taskWhitePaws.src,
-            title: 'Put 🐾 in your name',
-            reward: '+ 5,000 PAWS'
+            title: 'Put 🐋 in your name',
+            reward: '+ 5,000 WHALES'
         },
         {
             icon: TaskPaws,
-            title: 'Tweet about PAWS',
-            reward: '+ 2,000 PAWS'
+            title: 'Tweet about WHALES',
+            reward: '+ 2,000 WHALES'
         },
         {
             icon: taskBoost.src,
-            title: 'Boost PAWS channel',
-            reward: '+ 2,500 PAWS'
+            title: 'Boost WHALES channel',
+            reward: '+ 2,500 WHALES'
         },
         {
             icon: TaskTelegram,
             title: 'Follow channel',
-            reward: '+ 1,000 PAWS'
+            reward: '+ 1,000 WHALES'
         },
         {
             icon: TaskTwitter,
             title: 'Follow twitter',
-            reward: '+ 2,000 PAWS'
+            reward: '+ 2,000 WHALES'
         },
         {
             icon: TaskInvite,
             title: 'Invite 10 friends',
-            reward: '+ 5,000 PAWS'
+            reward: '+ 5,000 WHALES'
         },
         {
             icon: TaskWallet,
             title: 'Connect wallet',
-            reward: '+ 3,000 PAWS'
+            reward: '+ 3,000 WHALES'
         },
         // Add more tasks as needed
     ]
@@ -74,7 +74,7 @@ const TasksTab = () => {
         {
             icon: taskBlum.src,
             title: 'Join Blum Channel',
-            reward: '+ 1,000 PAWS'
+            reward: '+ 1,000 WHALES'
         }
     ]
 

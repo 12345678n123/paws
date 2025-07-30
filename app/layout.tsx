@@ -23,7 +23,7 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "Paws Game Clone",
+  title: "Whales",
   description: "Clone of the popular Telegram mini app Paws, developed by Nikandr Surkov.",
 };
 
